@@ -1,4 +1,4 @@
-import pytest
+#import pytest
 import main
 
 def test_case_1():
